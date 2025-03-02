@@ -98,10 +98,10 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                // Detener los sonidos
+                // Detenemos los sonidos
                 backgroundSound.stop();
 
-                // Ocultar todos los elementos de la guía
+                // Ocultamos todos los elementos de la guía
                 guideBinding.guide.setVisibility(View.GONE);
                 guideBinding.saltarGuia.setVisibility(View.GONE);
 

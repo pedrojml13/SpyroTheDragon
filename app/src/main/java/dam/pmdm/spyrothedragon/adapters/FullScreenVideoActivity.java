@@ -17,18 +17,18 @@ public class FullScreenVideoActivity extends Activity {
 
         VideoView videoView = findViewById(R.id.videoViewFullScreen);
 
-        // Obtener la ruta del video desde el intent
+        // Obtenemos la ruta del video desde el intent
         String videoPath = getIntent().getStringExtra("videoPath");
         if (videoPath != null) {
             videoView.setVideoURI(Uri.parse(videoPath));
             videoView.start();
         }
 
-        // Cerrar la actividad cuando el video termine
+        // Cerramos la actividad cuando el video termine
         videoView.setOnCompletionListener(MediaPlayer::release);
         videoView.setOnCompletionListener(mp -> finish());
 
-        // También cerrar al hacer clic en la pantalla
+        // También cerramos al hacer clic en la pantalla
         videoView.setOnClickListener(v -> finish());
     }
 }
