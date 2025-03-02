@@ -45,7 +45,7 @@ También incluye una guía inicial para orientar al usuario a través de la apli
 
 ## Conclusiones del desarrollador
 
-Desarrollar **SpyroTheDragon** ha sido una experiencia divertida y educativa. Durante el proceso de desarrollo, he aprendido mucho sobre la interacción con el usuario y cómo implementar Easter Eggs en una aplicación móvil. El mayor desafío fue asegurarse de que los eventos de las pulsaciones largas y clics consecutivos se manejaran correctamente para activar los Easter Eggs y la realización del Canvas.
+Desarrollar **SpyroTheDragon** ha sido una experiencia divertida y educativa. Durante el proceso de desarrollo, he aprendido mucho sobre la interacción con el usuario y cómo implementar Easter Eggs en una aplicación móvil. El mayor desafío fue estructurar la guía la realización del Canvas.
 
 Este proyecto también me ha permitido profundizar en el uso de **Android Studio** y trabajar con **Java**, lo que ha sido una excelente oportunidad para mejorar mis habilidades de desarrollo móvil. He experimentado con la integración de recursos multimedia como videos y audios, y también he aprendido a manejar el **Canvas** para renderizar gráficos y animaciones de manera eficiente.
 
