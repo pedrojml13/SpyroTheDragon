@@ -18,7 +18,7 @@ SpyroTheDragon es una aplicación móvil diseñada para ofrecer una guía comple
 - **Android Studio**: IDE utilizado para el desarrollo de la aplicación.
 - **Java**: Lenguaje principal de programación.
 - **Canvas**: Utilizado para renderizar gráficos y animaciones.
-- **Videos y Audios**: Implementación de recursos multimedia para mejorar la experiencia del usuario.
+- **VideoView y MediaPlayer**: Para la reproducción del video y audios.
 - **Transiciones entre pantallas**: Para navegar de manera fluida entre las secciones de la aplicación.
 
 ## Instrucciones de uso
@@ -27,20 +27,19 @@ SpyroTheDragon es una aplicación móvil diseñada para ofrecer una guía comple
 
 1. Abre tu terminal o línea de comandos.
 2. Clona el repositorio usando el siguiente comando:
-   ```bash
    git clone https://github.com/tu_usuario/SpyroTheDragon.git
 
 ### Instalación de dependencias
-    Abre el proyecto en Android Studio.
-    Asegúrate de tener el SDK de Android configurado.
-    Si es necesario, actualiza las dependencias ejecutando el siguiente comando:
-    bash
-    Copiar código
-    ./gradlew build 
+  Abre el proyecto en Android Studio.
+  Asegúrate de tener el SDK de Android configurado.
+  Si es necesario, actualiza las dependencias ejecutando el siguiente comando:
+  bash
+  Copiar código
+  ./gradlew build 
 
   ### Ejecutar la aplicación
-    Conecta un dispositivo Android o usa un emulador en Android Studio.
-    Haz clic en el botón Run en Android Studio para compilar y ejecutar la aplicación en tu dispositivo.
+  Conecta un dispositivo Android o usa un emulador en Android Studio.
+  Haz clic en el botón Run en Android Studio para compilar y ejecutar la aplicación en tu dispositivo.
 
 
 ## Conclusiones del desarrollador
