@@ -4,6 +4,19 @@
     <string name="characters">Personajes</string>
     <string name="collectibles">Coleccionables</string>
     <string name="title_about">Acerca de</string>
-    <string name="text_about">Aplicación desarrollada por \n <b>Lindsay Barrero Martínez.</b></string>
+    <string name="text_about">Aplicación desarrollada por \n <b>Pedro Javier Morales Leyva.</b></string>
     <string name="accept">Aceptar</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="welcome_msg">Aquí aprenderás a navegar por pestañas llenas de dragones, mundos fascinantes y montones de tesoros brillantes.\n\n¿Listo para empezar?\n\nPulsa Comenzar y deja que Spyro te lleve volando a través de esta guía interactiva.</string>
+    <string name="msg1">Prepárate para explorar el mundo mágico de esta aplicación inspirada en</string>
+    <string name="start">Comenzar</string>
+    <string name="tab1">Aquí podrás explorar todos los personajes del mundo de Spyro.</string>
+    <string name="tab2">Aquí podrás explorar todos los mundos de Spyro.</string>
+    <string name="tab3">Aquí podrás explorar todos los coleccionables del mundo de Spyro.</string>
+    <string name="tab_info">Aqui encontrarás información de la aplicación</string>
+    <string name="end_guide">Fin de la guía</string>
+    <string name="resume_guide">Hemos completado los siguientes pasos:</string>
+    <string name="guide_steps">-Pestaña personajes\n-Pestaña mundos\n-Pestaña coleccionables\n-Icono información</string>
+    <string name="end">FINALIZAR</string>
+    <string name="skip_guide">Saltar guía</string>
 </resources>

@@ -39,6 +39,7 @@ public class CollectiblesFragment extends Fragment {
         adapter = new CollectiblesAdapter(collectiblesList);
         recyclerView.setAdapter(adapter);
 
+
         loadCollectibles();
         return binding.getRoot();
     }

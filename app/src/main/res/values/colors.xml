@@ -7,4 +7,8 @@
     <color name="yellow2">#88ffffff</color>
     <color name="white">#ffffff</color>
     <color name="black">#000000</color>
+
+    <color name="dark_purpura">#3E0647</color>
+    <color name="semi_transparent_purpura">#B19C11B3</color>
+    <color name="semi_transparent_yellow">#B1B3A311</color>
 </resources>

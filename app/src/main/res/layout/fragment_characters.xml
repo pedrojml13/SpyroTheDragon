@@ -13,4 +13,15 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <!-- Vista personalizada para la llama -->
+    <dam.pmdm.spyrothedragon.views.FlameAnimationView
+        android:id="@+id/flameView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>

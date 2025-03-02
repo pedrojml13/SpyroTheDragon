@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Estilo para el texto general -->
+    <style name="TextStyle">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="fontFamily">@font/boing</item>
+    </style>
+
+    <!-- Estilo para el texto de bienvenida -->
+    <style name="WelcomeTextStyle">
+        <item name="android:textSize">32sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="fontFamily">@font/boing</item>
+    </style>
+
+
+    <!-- Estilo para el texto en las pestañas -->
+    <style name="TabTextStyle">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">200dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="fontFamily">@font/boing</item>
+
+    </style>
+
+
+    <!-- Estilo para el layout con fondo transparente -->
+    <style name="BocadilloFrameLayout">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/ovalo_guia</item>
+    </style>
+
+    <!-- Estilo para saltar guia -->
+    <style name="SaltarGuia">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/ovalo</item>
+        <item name="fontFamily">@font/boing</item>
+    </style>
+
+</resources>

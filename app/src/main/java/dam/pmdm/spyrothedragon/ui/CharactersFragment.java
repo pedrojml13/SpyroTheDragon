@@ -21,6 +21,7 @@ import dam.pmdm.spyrothedragon.R;
 import dam.pmdm.spyrothedragon.models.Character;
 import dam.pmdm.spyrothedragon.adapters.CharactersAdapter;
 import dam.pmdm.spyrothedragon.databinding.FragmentCharactersBinding;
+import dam.pmdm.spyrothedragon.views.FlameAnimationView;
 
 
 public class CharactersFragment extends Fragment {
@@ -30,16 +31,18 @@ public class CharactersFragment extends Fragment {
     private RecyclerView recyclerView;
     private CharactersAdapter adapter;
     private List<Character> charactersList;
+    private FlameAnimationView flameView;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
 
         binding = FragmentCharactersBinding.inflate(inflater, container, false);
+        flameView = binding.flameView;
         // Inicializamos el RecyclerView y el adaptador
         recyclerView = binding.recyclerViewCharacters;
         recyclerView.setLayoutManager(new LinearLayoutManager(getContext()));
         charactersList = new ArrayList<>();
-        adapter = new CharactersAdapter(charactersList);
+        adapter = new CharactersAdapter(charactersList, flameView);
         recyclerView.setAdapter(adapter);
 
         // Cargamos los personajes desde el XML
