@@ -66,7 +66,7 @@ public class FlameAnimationView extends View {
 
         flamePath.reset();
 
-        // Hacer que la forma de la llama varíe
+        // Hacemos que la forma de la llama varíe
         float fluctuation = (random.nextFloat() - 0.5f) * 100;
         flameWidth = 100 + fluctuation;
 
@@ -74,10 +74,10 @@ public class FlameAnimationView extends View {
         flamePath.quadTo(getWidth() / 2 - flameWidth, flameHeight / 2, getWidth() / 2, flameHeight);
         flamePath.quadTo(getWidth() / 2 + flameWidth, flameHeight / 2, getWidth() / 2, 0);
 
-        // Dibuja la llama
+        // Dibujamos la llama
         canvas.drawPath(flamePath, flamePaint);
 
-        // Dibuja las partículas alrededor de la llama
+        // Dibujamos las partículas alrededor de la llama
         for (int i = 0; i < 20; i++) {
             float x = getWidth() / 2 + (random.nextFloat() - 0.5f) * (flameWidth * 0.5f);
             float y = random.nextFloat() * flameHeight;
