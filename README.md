@@ -1,4 +1,4 @@
-# SpyroTheDragon - Guía interactiva de Spyro
+# SpyroTheDragon
 
 ## Introducción
 
