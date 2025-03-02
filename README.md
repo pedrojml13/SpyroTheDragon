@@ -2,7 +2,8 @@
 
 ## Introducción
 
-SpyroTheDragon es una aplicación móvil diseñada para ofrecer una guía completa sobre el mundo de **Spyro the Dragon**. En ella, los usuarios podrán explorar los personajes, mundos y coleccionables del juego de manera interactiva. Además, la aplicación incluye divertidos Easter Eggs para sorprender a los jugadores mientras navegan por la guía.
+SpyroTheDragon es una aplicación móvil diseñada para ofrecer información sobre el mundo de **Spyro the Dragon**. En ella, los usuarios podrán explorar los personajes, mundos y coleccionables del juego de manera interactiva. Además, la aplicación incluye divertidos Easter Eggs para sorprender a los jugadores mientras navegan por la aplicaión.
+También incluye una guía inicial para guiar al usuario a través de la aplicación
 
 ## Características principales
 
@@ -27,7 +28,7 @@ SpyroTheDragon es una aplicación móvil diseñada para ofrecer una guía comple
 
 1. Abre tu terminal o línea de comandos.
 2. Clona el repositorio usando el siguiente comando:
-   git clone https://github.com/tu_usuario/SpyroTheDragon.git
+   git clone https://github.com/pedrojml13/SpyroTheDragon.git
 
 ### Instalación de dependencias
   Abre el proyecto en Android Studio.
