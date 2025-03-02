@@ -200,11 +200,12 @@ public class MainActivity extends AppCompatActivity {
                 /*guideBinding.pulse.setX(width - guideBinding.pulse.getWidth());
                 guideBinding.pulse.setY(-80);
 
-                guideBinding.pulse.setVisibility(View.VISIBLE);
+
 
                 startPulseAnimation();
 
                  */
+                guideBinding.pulse.setVisibility(View.GONE);
                 startExpandAnimation(guideBinding.informationIcon);
             }
         });
