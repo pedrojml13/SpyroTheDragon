@@ -2,7 +2,7 @@
 
 ## Introducción
 
-SpyroTheDragon es una aplicación móvil diseñada para ofrecer información sobre el mundo de **Spyro the Dragon**. En ella, los usuarios podrán explorar los personajes, mundos y coleccionables del juego de manera interactiva. Además, la aplicación incluye divertidos Easter Eggs para sorprender a los jugadores mientras navegan por la aplicaión.
+SpyroTheDragon es una aplicación móvil diseñada para ofrecer información sobre el mundo de **Spyro**. En ella, los usuarios podrán explorar los personajes, mundos y coleccionables del juego de manera interactiva. Además, la aplicación incluye divertidos Easter Eggs para sorprender a los jugadores mientras navegan por la aplicaión.
 También incluye una guía inicial para orientar al usuario a través de la aplicación
 
 ## Características principales
