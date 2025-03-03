@@ -47,7 +47,7 @@ También incluye una guía inicial para orientar al usuario a través de la apli
 
 Desarrollar **SpyroTheDragon** ha sido una experiencia divertida y educativa. Durante el proceso de desarrollo, he aprendido mucho sobre la interacción con el usuario y cómo implementar Easter Eggs en una aplicación móvil. El mayor desafío fue estructurar la guía y la realización del Canvas.
 
-Este proyecto he experimentado con la integración de recursos multimedia como videos y audios, y también he aprendido a manejar el **Canvas** para renderizar gráficos y animaciones de manera eficiente.
+En este proyecto he experimentado con la integración de recursos multimedia como videos y audios, y también he aprendido a manejar el **Canvas** para renderizar gráficos y animaciones de manera eficiente.
 
 En resumen, este proyecto ha sido una valiosa oportunidad para mejorar mis habilidades técnicas y experimentar con características que añaden interactividad y entretenimiento a la aplicación.
 
