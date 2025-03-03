@@ -12,7 +12,7 @@ También incluye una guía inicial para orientar al usuario a través de la apli
 - **Coleccionables**: Información sobre los coleccionables del juego, como gemas y otros objetos secretos.
 - **Easter Eggs**:
   - Al realizar una **pulsación larga** sobre el personaje **Spyro**, aparecerá una llama saliendo de su boca.
-  - Al hacer **4 clics consecutivos** sobre el coleccionable **Gemas**, se reproducirá un video relacionado con la aplicación.
+  - Al hacer **4 clics consecutivos** sobre el coleccionable **Gemas**, se reproducirá un video relacionado con el mundo de Spyro.
 
 ## Tecnologías utilizadas
 
